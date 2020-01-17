@@ -1,0 +1,96 @@
+#title{
+  background-color: #ff4c68;
+}
+h1{
+  font-family: 'Russo One', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  padding-top: 80px;
+}
+h2{
+  font-family: 'Russo One', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.nav-item{
+  padding-left: 40px;
+}
+.im{
+  transform: rotate(20deg);
+  padding-top: 40px;
+  width: 350px;
+  height: 700px;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Russo One', sans-serif;
+}
+.col-lg-4{
+  text-align: center;
+}
+.q{
+  color: #ff4c68;
+  padding-top: 100px;
+
+}
+.q:hover{
+  color: red;
+}
+.q1{
+  padding-bottom: 100px;
+}
+.q2{
+  width: 25%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+.plogo{
+  width: 15%;
+  margin: 20px 15px 20px 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  font-family: 'Russo One', sans-serif;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+#footer{
+  text-align: center;
+}
+.q4{
+  padding-left: 20px;
+}
+
+@@media (max-width: 1028px) {
+
+  #title{
+    text-align: center;
+  }
+}
